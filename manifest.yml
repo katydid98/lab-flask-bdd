@@ -3,8 +3,8 @@ applications:
   memory: 64M
   instances: 2
   domain: mybluemix.net
-  name: nyu-lab-bdd-jr
-  #host: nyu-lab-bdd-jr
+  name: lab-flask-bdd-kn
+  #host: lab-flask-bdd-kn
   disk_quota: 512M
   buildpack: python_buildpack
   services:
